@@ -1,0 +1,65 @@
+body h1
+{
+    color: chocolate;
+}
+label
+{
+    text-align: center;
+    color: brown;
+}
+
+
+#tacheEnCours
+{
+    border-radius: 5px;
+    background-color: rgb(237, 207, 167);
+
+}
+
+#tacheEnCours h1
+{
+    font-size: 25px;
+    text-align: center;
+}
+
+#tacheTerminer
+{
+    border-radius: 5px;
+    background-color:gray;
+}
+
+#tacheTerminer h1
+{
+    font-size: 25px;
+    text-align: center;
+}
+
+#taskList1 li
+{
+    background-color:rgb(157, 179, 180);
+
+}
+
+
+#taskList li
+{
+    background-color:beige;
+
+}
+
+
+
+.btntrash
+{
+    margin-left: 205px;
+}
+
+*
+
+.btnterminer
+{
+    margin-right: 10px;
+    border-radius:20px;
+    height: 25px;
+    width: 25px;
+}
